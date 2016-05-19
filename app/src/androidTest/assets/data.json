@@ -1,0 +1,14 @@
+{
+  "Default":
+  {"EMAIL": "default",
+    "PASSWORD": "defaultpass"
+  },
+  "Input email and password in wrong format-non outline":
+  {"EMAIL": "sat@gmail.com",
+    "PASSWORD": "abcd"
+  },
+  "Input email and password in wrong format-non":
+  {"EMAIL": "ram@gmail.com",
+    "PASSWORD": "zxcv"
+  }
+}
